@@ -1,2 +1,8 @@
-# travel-agency-web-app
-Repositorio para la página web de la agencia de viajes enfocada en la búsqueda interactiva y reserva en línea de vuelos y paquetes turísticos
+# Travel Agency Web App
+
+Este es un proyecto para una aplicación web de agencia de viajes. Aquí podrás buscar y reservar vuelos y paquetes turísticos.
+
+## Cómo empezar
+
+1. Clona el repositorio.
+2. Abre `index.html` en tu navegador para ver la aplicación en acción.
